@@ -1,20 +1,10 @@
-import Proj1 from '../assets/proj1.jpg';
+import Proj1 from '../assets/project1.png';
 
 export const ProjectList = [
   {
-    name: '작업중',
+    name: 'Medical Services',
     image: Proj1,
-    skills: 'Reacr,Node.js',
-  },
-  {
-    name: '작업중',
-    image: Proj1,
-    skills: 'Reacr,Node.js',
-  },
-  {
-    name: '작업중',
-    image: Proj1,
-    skills: 'Reacr,Node.js',
+    skills: 'React.js, Redux',
   },
   {
     name: '작업중',

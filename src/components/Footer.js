@@ -9,7 +9,7 @@ function Footer() {
         <InstaIcon />
         <FacebookIcon />
       </div>
-      <p> &copy; 2022 pedrotech.com</p>
+      <p> email: khu10735@naver.com | Github: https://github.com/metablog </p>
     </div>
   );
 }
