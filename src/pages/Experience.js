@@ -13,58 +13,39 @@ function Experience() {
       <VerticalTimeline lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2010 - 2014"
+          date="2012 - 2015"
           iconStyle={{ background: '#3e497a', color: '#fff' }}
           icon={<School />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random Hight School, Random Pleace, Random State{' '}
+            REPUBLIC OF UZBEKISTAN DIPLOMA OF PROFESSIONAL COLLEGE
           </h3>
-          <p>Hight School Diploma</p>
+          <p>computer</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2010 - 2014"
+          date="2017 - 2022"
           iconStyle={{ background: '#3e497a', color: '#fff' }}
           icon={<School />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random Hight School, Random Pleace, Random State{' '}
+            Seongnam-daero, Sujeong-gu, Seongnam-si, Gyeonggi-do, Republic of
+            Korea
           </h3>
-          <p>Hight School Diploma</p>
+          <p>computer engineering</p>
         </VerticalTimelineElement>
+
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2010 - 2014"
-          iconStyle={{ background: '#e9d35b', color: '#fff' }}
-          icon={<Work />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            My Random Hight School, Random Pleace, Random State{' '}
-          </h3>
-          <p>Hight School Diploma</p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2010 - 2014"
+          date="2022 - "
           iconStyle={{ background: '#3e497a', color: '#fff' }}
           icon={<School />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random Hight School, Random Pleace, Random State{' '}
+            Seongnam-daero, Sujeong-gu, Seongnam-si, Gyeonggi-do, Republic of
+            Korea
           </h3>
-          <p>Hight School Diploma</p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2010 - 2014"
-          iconStyle={{ background: '#3e497a', color: '#fff' }}
-          icon={<School />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            My Random Hight School, Random Pleace, Random State{' '}
-          </h3>
-          <p>Hight School Diploma</p>
+          <p>in graduate school</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>

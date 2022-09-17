@@ -9,24 +9,12 @@ function ProjectDisplay() {
   const project = ProjectList[id];
   return (
     <div className="project">
-      <a
-        href="https://gachonlab.netlify.app/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <h1>{project.name}</h1>
-      </a>
+      <h1>{project.name}</h1>
 
       <img src={project.image} />
       <p>Skills: {project.skills}</p>
 
-      <a
-        href="https://github.com/metablog/Lab"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <GithubIcon />
-      </a>
+      <GithubIcon />
     </div>
   );
 }

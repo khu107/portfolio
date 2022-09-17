@@ -21,7 +21,7 @@ function Home() {
           />
         </h2>
         <div className="prompt">
-          <p>A software developer with a passion for learning and creating.</p>
+          <p>Output, 을 보고 재미를 느끼는 웹 개발자</p>
           <EmailIcon />
           <a
             href="https://github.com/metablog"
