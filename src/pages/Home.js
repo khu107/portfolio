@@ -36,19 +36,14 @@ function Home() {
         <h1> Skills</h1>
         <ol className="list">
           <li className="item">
-            <h2> Front-End</h2>
+            <h2> Code</h2>
+            <span>[ HTML, CSS, Javascript, Python ]</span>
+          </li>
+          <li className="item">
+            <h2>Tools</h2>
             <span>
-              ReactJS, Redux, HTML, CSS, NPM, BootStrap, MaterialUI, Yarn,
-              StyledComponents
+              [ React, Redux, BootStrap, MaterialUI, StyledComponents ]
             </span>
-          </li>
-          <li className="item">
-            <h2>Back-End</h2>
-            <span>NodeJS, ExpressJS, MongoDB,</span>
-          </li>
-          <li className="item">
-            <h2>Languages</h2>
-            <span>JavaScript, Python, TypeScript,</span>
           </li>
         </ol>
       </div>
