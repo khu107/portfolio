@@ -6,12 +6,7 @@
     align-items: center;
     flex-direction: column;
   }
-  a{
-
-    
-    
-    text-decoration: none;
-  }
+  
   .project h1 {
     color: #3e497a;
     font-size: 35px;

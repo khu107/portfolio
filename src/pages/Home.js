@@ -14,9 +14,9 @@ function Home() {
             words={[' I am Khusan']}
             loop
             cursor
-            cursorStyle="🫶"
-            typeSpeed={70}
-            deleteSpeed={50}
+            cursorStyle="_"
+            typeSpeed={90}
+            deleteSpeed={80}
             delaySpeed={1000}
           />
         </h2>
@@ -37,7 +37,7 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2> Code</h2>
-            <span>[ HTML, CSS, Javascript, Python ]</span>
+            <span>[ HTML , CSS, Javascript, Python ]</span>
           </li>
           <li className="item">
             <h2>Tools</h2>
